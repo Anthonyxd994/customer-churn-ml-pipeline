@@ -1,0 +1,106 @@
+# Customer Churn Prediction System Configuration
+
+# Data Settings
+data:
+  raw_path: "data/raw"
+  processed_path: "data/processed"
+  sample_path: "data/sample"
+  train_test_split: 0.2
+  random_state: 42
+
+# Feature Engineering
+features:
+  # Numerical features to scale
+  numerical:
+    - tenure_months
+    - monthly_spend
+    - total_orders
+    - avg_order_value
+    - days_since_last_order
+    - login_frequency
+    - support_tickets
+    - products_viewed
+    - cart_abandonment_rate
+    - discount_usage_rate
+
+  # Categorical features to encode
+  categorical:
+    - gender
+    - location_tier
+    - preferred_payment
+    - preferred_device
+    - membership_type
+    - marital_status
+
+  # Target column
+  target: churn
+
+# Model Training
+training:
+  models:
+    - name: xgboost
+      params:
+        n_estimators: 200
+        max_depth: 6
+        learning_rate: 0.1
+        subsample: 0.8
+        colsample_bytree: 0.8
+        min_child_weight: 1
+        scale_pos_weight: 3 # Handle class imbalance
+        random_state: 42
+
+    - name: random_forest
+      params:
+        n_estimators: 200
+        max_depth: 12
+        min_samples_split: 5
+        min_samples_leaf: 2
+        class_weight: balanced
+        random_state: 42
+
+    - name: logistic_regression
+      params:
+        C: 1.0
+        max_iter: 1000
+        class_weight: balanced
+        random_state: 42
+
+  # Cross-validation
+  cv_folds: 5
+
+  # Metrics to track
+  metrics:
+    - accuracy
+    - precision
+    - recall
+    - f1
+    - roc_auc
+
+# MLflow Settings
+mlflow:
+  experiment_name: "churn_prediction"
+  tracking_uri: "mlruns"
+  model_registry_name: "churn_classifier"
+
+# API Settings
+api:
+  host: "0.0.0.0"
+  port: 8000
+  model_path: "models/artifacts/best_model.joblib"
+
+# Dashboard Settings
+dashboard:
+  port: 8501
+  theme: "dark"
+
+# Logging
+logging:
+  level: INFO
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+# Data Generation (for synthetic data)
+data_generation:
+  num_customers: 10000
+  churn_rate: 0.26 # 26% churn rate (realistic for e-commerce)
+  start_date: "2023-01-01"
+  end_date: "2024-12-31"
