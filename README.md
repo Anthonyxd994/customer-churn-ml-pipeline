@@ -15,7 +15,7 @@
 
 <!-- Main Badges -->
 
-![CI/CD](https://img.shields.io/github/actions/workflow/status/yourusername/churn_e2e_ml/ci.yml?branch=main&style=for-the-badge&label=CI%2FCD&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/github/actions/workflow/status/mohamednoorulnaseem/customer-churn-ml-pipeline/ci.yml?branch=main&style=for-the-badge&label=CI%2FCD&logo=github-actions&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.128+-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.29+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -529,18 +529,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Built_by-Noor-6366F1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4="/>
+<img src="https://img.shields.io/badge/Built_by-Mohamed_Noorul_Naseem-6366F1?style=for-the-badge" alt="Author Badge"/>
 
-### **Mohammad Noor**
+### **Mohamed Noorul Naseem**
 
 _Data Scientist & ML Engineer_
 
 Passionate about building production-ready ML systems that drive real business value.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamednoorulnaseem)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamednoorulnaseem)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noorulnaseem11@gmail.com)
 
 </div>
 
@@ -552,9 +551,9 @@ Passionate about building production-ready ML systems that drive real business v
 
 If you found this project helpful, please consider:
 
-[![Star](https://img.shields.io/badge/⭐_Star_this_repo-6366F1?style=for-the-badge)](https://github.com/yourusername/churn_e2e_ml)
-[![Fork](https://img.shields.io/badge/🍴_Fork_it-4CAF50?style=for-the-badge)](https://github.com/yourusername/churn_e2e_ml/fork)
-[![Share](https://img.shields.io/badge/📤_Share_it-00D4FF?style=for-the-badge)](https://twitter.com/intent/tweet?text=Check%20out%20RetentionIQ%20-%20A%20production-ready%20ML%20platform%20for%20customer%20churn%20prediction!%20https://github.com/yourusername/churn_e2e_ml)
+[![Star](https://img.shields.io/badge/⭐_Star_this_repo-6366F1?style=for-the-badge)](https://github.com/mohamednoorulnaseem/customer-churn-ml-pipeline)
+[![Fork](https://img.shields.io/badge/🍴_Fork_it-4CAF50?style=for-the-badge)](https://github.com/mohamednoorulnaseem/customer-churn-ml-pipeline/fork)
+[![Share](https://img.shields.io/badge/📤_Share_it-00D4FF?style=for-the-badge)](https://twitter.com/intent/tweet?text=Check%20out%20this%20End-to-End%20Customer%20Churn%20Prediction%20ML%20Pipeline!%20https://github.com/mohamednoorulnaseem/customer-churn-ml-pipeline)
 
 <br/>
 

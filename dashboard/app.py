@@ -1078,7 +1078,7 @@ def render_dashboard(df, model_info):
     with col_header:
         st.markdown(f"""
         <div style="margin-bottom: 1.5rem;">
-            <div class="page-title">{greeting}, Noor 👋</div>
+            <div class="page-title">{greeting}, Mohamed 👋</div>
             <div class="page-subtitle">
                 Here's your customer retention overview 
                 <span class="last-updated"><i class="bi bi-clock"></i> {current_time}</span>
